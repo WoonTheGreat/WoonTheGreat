@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WoonTheGreat
+- 👋 Hi, I’m Lee Kar Woon @ WoonTheGreat
 - 👀 I’m interested in coding & observing data 
 - 🌱 I’m currently learning Python & others
 - 💞️ I’m looking to code & learn as much as possible
